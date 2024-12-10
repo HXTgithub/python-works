@@ -1,0 +1,2 @@
+book 书,书籍,书籍
+read 读school 学校
